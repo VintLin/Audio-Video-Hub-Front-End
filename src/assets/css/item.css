@@ -1,0 +1,45 @@
+.card {
+  /* width: 700px; */
+  padding: 20px;
+  margin-bottom: 0;
+  box-shadow: none;
+  border-bottom: 1px solid #F0F2F7;
+  background-color: white;
+}
+
+.item-title {
+  text-align: left;
+  font-size: 20px;
+  font-weight: 600;
+  font-synthesis: style;
+  line-height: 1.6;
+  color: #1A1A1A;
+  margin-top: -4px;
+  margin-bottom: 5px;
+}
+
+.item-content {
+  font-size: 16px;
+  line-height: 1.67;
+  color: #1A1A1A;
+}
+
+.item-footer {
+  font-size: 15px;
+}
+
+.item-image-cover {
+  position: relative;
+  width: 200px;
+  height: 115px;
+  margin-top: -2px;
+  margin-right: 18px;
+  margin-bottom: 4px;
+  float: left;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+  border-radius: 4px;
+  -webkit-transform: translate3d( 0, 0, 0 );
+  transform: translate3d( 0, 0, 0 );
+}

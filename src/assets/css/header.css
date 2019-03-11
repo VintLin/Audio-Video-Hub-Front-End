@@ -1,0 +1,19 @@
+
+.header-bar {
+  border-bottom: 2px solid rgb(238, 226, 226);
+  background-color:#fff;
+  color: aliceblue;
+}
+
+.header-text {
+  font-size: 20px;
+}
+
+.header-logo {
+  margin: 0px auto;
+  width: 340px;
+  height: 60px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100px 60px;
+}
